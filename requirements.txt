@@ -1,0 +1,9 @@
+Core libraries for PyValk
+
+gTTS==2.5.1
+SpeechRecognition==3.10.4
+PyAudio==0.2.14
+
+Note: tkinter is usually included with Python standard installations.
+
+If on Linux, users might need: sudo apt-get install python3-tk
